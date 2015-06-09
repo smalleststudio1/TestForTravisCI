@@ -4,5 +4,4 @@ python:
    -"2.7"
 
 #command to install dependencies
-install:
-script:hello.py
+script: python hello.py
